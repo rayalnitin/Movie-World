@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Movie-World/static/css/main.a2dd1865.css",
-    "main.js": "/Movie-World/static/js/main.349deda8.js",
+    "main.js": "/Movie-World/static/js/main.1b9e6ccf.js",
     "static/media/header-bg.png": "/Movie-World/static/media/header-bg.8d809d4971c4dadc15d1.png",
     "static/media/logo.png": "/Movie-World/static/media/logo.be7f675cc1b7461fd367.png",
     "index.html": "/Movie-World/index.html",
     "main.a2dd1865.css.map": "/Movie-World/static/css/main.a2dd1865.css.map",
-    "main.349deda8.js.map": "/Movie-World/static/js/main.349deda8.js.map"
+    "main.1b9e6ccf.js.map": "/Movie-World/static/js/main.1b9e6ccf.js.map"
   },
   "entrypoints": [
     "static/css/main.a2dd1865.css",
-    "static/js/main.349deda8.js"
+    "static/js/main.1b9e6ccf.js"
   ]
 }
