@@ -29,7 +29,7 @@ function App() {
         />
         <Routes>
           <Route
-            path="/"
+            path="/Movie-World"
             element={
               <>
                 <Home setShowHome={setShowHome} showhome={showhome} />
