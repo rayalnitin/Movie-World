@@ -1,0 +1,23 @@
+.movie_card > span{
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    height: 10px;
+    width: 170px;
+    margin-top: 5px;
+}
+.movie_card > p {
+    color: rgb(234, 231, 231);
+    font-size: 12px;
+}
+.movie_card > img{
+    height: 240px;
+    width: 170px;
+    border-radius: 10px;
+}
+.movie_card{
+    display: flex;
+    flex-direction: column;
+    margin-right: 15px ;
+    margin-bottom: 10px;
+}

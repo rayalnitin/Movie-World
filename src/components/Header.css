@@ -1,0 +1,26 @@
+.navbar__bg{   
+    background-repeat: no-repeat; 
+    background-image: url("../images/header-bg.png"); 
+    height: 250px;  
+}
+
+.input__section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.search__icon{
+    height: 80px;
+    cursor: pointer;
+}
+.search__movie{
+    height: 30px;
+    width: 50%;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 10px;
+}
+
