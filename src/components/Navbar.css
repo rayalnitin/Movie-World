@@ -25,7 +25,7 @@
 .genre__block{
     background-color: #3c4b5b ;
     position: absolute;
-    width: 620px;
+    width: fit-content;
     height: fit-content;
     display: none;
     border-radius: 10px;

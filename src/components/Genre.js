@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import "./Genre.css";
 import Showbox from "./Showbox";
 import Pagination from "./Pagination";
 

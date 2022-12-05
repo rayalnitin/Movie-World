@@ -142,12 +142,12 @@ function Navbar({ setSelectedGenre }) {
 
   return (
     <div className="navbar">
-      <div className="logo__action" onClick={() => navigate("/")}>
+      <div className="logo__action" onClick={() => navigate("/Movie-World")}>
         <img src={logo} alt="logo image" className="logo__navbar" />
         <h2>Movie-World</h2>
       </div>
       <div className="menu__navbar">
-        <div className="options__navbar" onClick={() => navigate("/")}>
+        <div className="options__navbar" onClick={() => navigate("/Movie-World")}>
           HOME
         </div>
         <div className="options__navbar genre__list">
